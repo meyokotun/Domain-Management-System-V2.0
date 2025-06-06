@@ -1,7 +1,7 @@
 // script.js - The Frontend Logic
 
 // !!! IMPORTANT: PASTE YOUR GOOGLE APPS SCRIPT URL HERE !!!
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbydoSdVI0sk1WOCmCltnUnlgp0ZrgmaztRNjODTfLdRDlWmv13h7j9NXmHGkDOUxZpBhA/exec'; 
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzYdgmvQ4iwVL4WvMN98f3OuohRpZ0XkU4iFLJyCkTaDzXB-ZHaAbIkGm_cJnZ1aiwTpQ/exec'; 
 
 document.addEventListener('DOMContentLoaded', () => {
     // Check if user is already logged in
